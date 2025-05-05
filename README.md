@@ -5,13 +5,14 @@ This project implements a **teacher–student network** for sentiment classifica
 
 The student model learns from both the **ground truth labels** and the **soft predictions (logits)** of the teacher.
 ## Folder Structure
-
+```
 │
 ├── Main.ipynb        
 │
 ├── Loop
     ├── loopOFproject.mov          
-
+└── Readme.md          
+```
 ## Steps to Run the App
 ### 1. Clone the Repository
 ```bash
